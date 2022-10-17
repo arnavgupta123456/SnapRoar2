@@ -1,0 +1,28 @@
+.img-logo {
+    height: 50px;
+    width: 50px;
+   }
+.name {
+    color: blue;
+    text-shadow: 2px 2px 2px cyan;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+.paragraph {
+    color: cyan;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px blue;
+}
+.twoname {
+    color: blueviolet;
+    font-size: 40px;
+    text-shadow: 2px 2px 2px blue;
+}
+.btn-success:hover{
+    background-color: red;
+}
+#aboutMe{
+    margin-top: 900px;
+}
